@@ -1,6 +1,6 @@
 # ProyekTST
 
-Sistem untuk memprediksi penjualan berdasarkan biaya iklan yang dikeluarkan oleh perusahaan di platform instagram, televisi, dan koran
+Sistem untuk memprediksi penjualan berdasarkan biaya iklan yang dikeluarkan oleh perusahaan di platform instagram, televisi, dan koran. Sistem diimplementasikan dalam bentuk API(Application Programming Interface), sistem dapat mengambil data(GET) dari web service lain dan menjalankan fungsi forecasting. Model Machine Learning yang digunakan adalah Linear Regression
 
 ## Cara untuk start aplikasi :
 1. Download file
